@@ -1,0 +1,705 @@
+.keymetrics-tabs .card-inner-sec {
+    top: 0
+}
+
+.gogo-page.gogop50 #parallax1 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogop50 #parallax2 {
+    background-image: url(img2.png)
+}
+
+.gogo-page.gogop50 #parallax3 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogop70 #parallax1 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogop70 #parallax2 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogop70 #parallax3 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogoc90 #parallax1 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogoc90 #parallax2 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.gogoc90 #parallax3 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.riki-p40 #parallax1 {
+    background-image: url(img1.png);
+    background-size: 50%
+}
+
+.gogo-page.riki-p40 #parallax2 {
+    background-image: url(img1.png);
+    background-size: 52%
+}
+
+.gogo-page.riki-p40 #parallax3 {
+    background-image: url(img1.png);
+    background-size: 50%
+}
+
+.gogo-page.riki-c40 #parallax1 {
+    background-image: url(img1.png);
+    background-size: 50%
+}
+
+.gogo-page.riki-c40 #parallax2 {
+    background-image: url(img1.png);
+    background-size: 50% 95%
+}
+
+.gogo-page.riki-c40 #parallax3 {
+    background-image: url(img1.png);
+    background-size: 50%
+}
+
+.gogo-page.riki-p40 #parallax1 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.riki-p40 #parallax2 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.riki-p40 #parallax3 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.riki-c40 #parallax1 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.riki-c40 #parallax2 {
+    background-image: url(img1.png)
+}
+
+.gogo-page.riki-c40 #parallax3 {
+    background-image: url(img1.png)
+}
+
+.parallax {
+    height: 100vh;
+    background-attachment: fixed;
+    background-position: 0;
+    background-repeat: no-repeat;
+    background-size: unset
+}
+
+.desc-section2 {
+    position: relative
+}
+
+.desc-section2.fourthCard .card-inner-sec {
+    bottom: calc(100% - 90%);
+    top: auto
+}
+
+.desc-section.secondCard .card-inner-sec {
+    bottom: calc(100% - 90%);
+    top: 0
+}
+
+.gogo-page .keymetrics-tabs .inner-row1 .desc-section {
+    display: block;
+    width: auto
+}
+
+.desc-section2.fourthCard .card-inner-sec {
+    bottom: calc(100% - 90%);
+    top: auto
+}
+
+.desc-section.firstCard .card-inner-sec {
+    right: 0;
+    top: auto;
+    left: auto;
+    bottom: calc(100% - 90%)
+}
+
+#keymetrics-tab3 .desc-section.firstCard .card-inner-sec {
+    right: 0;
+    top: auto;
+    left: auto;
+    bottom: calc(100% - 90%);
+    max-width: 82%
+}
+
+#keymetrics-tab4 .desc-section.firstCard .card-inner-sec {
+    left: 0;
+    top: 0;
+    max-width: 50%
+}
+
+#keymetrics-tab3 .desc-section.zero-card .card-inner-sec {
+    right: 0;
+    top: auto;
+    left: 0;
+    bottom: calc(100% - 90%);
+    max-width: 90%
+}
+
+.gogo-keymetrics.keymetrics-tabs .inner-row1 .tab-desc-sec {
+    padding-left: 0;
+    padding-right: 0
+}
+
+.gogo-keysection .mb-4 {
+    border: 0
+}
+
+.keymetrics-tabs .row .tab-img-sec img {
+    border-radius: 0
+}
+
+#keymetrics-tab3 .desc-section.secondCard .card-inner-sec {
+    bottom: calc(100% - 90%);
+    top: 0;
+    right: 0;
+    left: auto;
+    max-width: 50%
+}
+
+#keymetrics-tab3 .desc-section2.thirdCard .card-inner-sec {
+    bottom: calc(100% - 90%);
+    top: 0;
+    right: 0;
+    left: auto;
+    max-width: 50%;
+    padding: 0 15px
+}
+
+.gogo-page .gogo-image-content .text-heading {
+    font-size: 1.5rem
+}
+
+.gogo-page .heading-line,.gogo-page .text-title {
+    font-size: 2.375rem;
+    color: #09bfca
+}
+
+.gogo-page .heading,.gogo-page .text-heading {
+    font-size: 1.5rem!important
+}
+
+.gogo-page .gogo-gallery .border-line {
+    top: 38px;
+    border-bottom: 2px solid #09bfca
+}
+
+.gogo-page .faqs-img-sec .border-line {
+    top: 38px;
+    border-bottom: 2px solid #09bfca
+}
+
+.gogo-page .border-line {
+    top: 38px
+}
+
+.gogo-page .tech-specs .sub-heading {
+    font-size: 1.5rem;
+    font-weight: 600;
+    line-height: 40px
+}
+
+.gogo-page .component.tech-specs {
+    margin-top: 60px
+}
+
+.gogo-page .tech-nav-links {
+    gap: 40px;
+    overflow: hidden;
+    flex-wrap: nowrap;
+    overflow-x: scroll
+}
+
+.gogo-page .header {
+    background: #fff
+}
+
+.gogo-comparison-table-secs {
+    width: 100%;
+    border-collapse: collapse
+}
+
+.gogo-page .accordion-container i.accordion-toggle-icon {
+    content: url(/-/media/bajaj-auto/common/arrow/down-arrow.svg)!important
+}
+
+.row-image-animate {
+    display: flex;
+    margin-top: 60px;
+    gap: 45px
+}
+
+.imagetext-component .image-1 {
+    width: 100%;
+    z-index: 99
+}
+
+.tech-nav-links {
+    justify-content: start
+}
+
+.gogo-page.gogop50 .engineVariants:before {
+    background: url(/-/media/Assets/bajajauto/three-wheelers/Gogo2/p50-drop-down) no-repeat;
+    background-position: center;
+    background-size: cover
+}
+
+.gogo-page.riki-p40 .engineVariants:before {
+    background: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/icons/360-icon.webp) no-repeat;
+    background-position: center;
+    background-size: cover
+}
+
+.gogo-page.riki-c40 .engineVariants:before {
+    background: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/icons/360-icon.webp) no-repeat;
+    background-position: center;
+    background-size: cover
+}
+
+.gogo-page .auto-360 .section-360-tabs-and-colors .tabber {
+    height: 70px
+}
+
+.pulsarns400.gogo-page .section-360-tabs-and-colors {
+    display: flex
+}
+
+.pulsarns400.gogo-page .auto-360 .section-360 .list1 {
+    margin-left: 0
+}
+
+.gogo-page .auto-360 .section-360-tabs-and-colors .tabber ul li:not(:first-child) {
+    background: #ddd;
+    z-index: 9
+}
+
+.gogo-page .auto-360 .section-360-tabs-and-colors .tabber ul li.selected {
+    background: #09bfca
+}
+
+.gogo-page .video-strips {
+    display: none
+}
+
+.gogo-page .enquiryform .lead-form-full input#fld_bike_full_name {
+    margin-top: 0
+}
+
+.gogo-page .enquiryform .lead-form-container-main .lead-form-full .col-w20 .form-box {
+    margin-top: 12px;
+    margin-bottom: 0
+}
+
+.enquiryform .btn {
+    font-size: 1rem;
+    padding: 0
+}
+
+.gogo-page .header {
+    z-index: 18
+}
+
+.gogo-page #overlay {
+    z-index: 9999
+}
+
+.gogo-page .header .btn-outline-primary:hover {
+    background: #0d6efd!important
+}
+
+.gogo-page .enquiryform {
+    overflow-y: scroll
+}
+
+.gogo-page #ModelThreWheeler .listofmodels p.title {
+    margin: 10px auto
+}
+
+@media only screen and (min-width: 992px) {
+    .gogo-page .sidenav #about {
+        border-radius:30px 30px 0 0!important
+    }
+
+    .gogo-page .sidenav #projects {
+        top: 344px!important
+    }
+
+    .gogo-page .sidenav #about:hover {
+        border-radius: 30px 0 0 30px!important
+    }
+
+    .gogo-page .enquiryform .lead-form-container-main .lead-form-full .col-w20 .form-box .select-box input {
+        margin-top: 0
+    }
+
+    .gogo-page #modelsListBox .list ul li {
+        white-space: normal;
+        line-height: 30px;
+        padding-bottom: 10px;
+        line-height: 24px
+    }
+
+    #keymetrics-tab2 .desc-section.secondCard .card-inner-sec {
+        max-width: 35%;
+        bottom: calc(100% - 90%);
+        top: 0;
+        right: 0;
+        left: auto;
+        max-width: 50%;
+        padding-right: 25px;
+        padding-left: 20px
+    }
+
+    .gogo-keymetrics.keymetrics-tabs .inner-row1 .tab-desc-sec .desc-section .card-inner-sec .card-title {
+        font-size: 2.125rem;
+        line-height: 51px;
+        letter-spacing: .01em
+    }
+
+    .keymetrics-tabs .component-content .tab-content .card-title {
+        font-size: 2.125rem;
+        line-height: 51px;
+        letter-spacing: .01em
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .gogo-page .parallax {
+        background-size:contain;
+        height: 380px
+    }
+
+    .gogo-page.gogop50 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/gogo-P50/product-overview/Mobimage-1)
+    }
+
+    .gogo-page.gogop50 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/gogo-P50/product-overview/mobimage-2)
+    }
+
+    .gogo-page.gogop50 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/gogo-P50/product-overview/mobimage-3)
+    }
+
+    .gogo-page.gogop70 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/Gogo2/product-overview/mobimage-1)
+    }
+
+    .gogo-page.gogop70 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/Gogo2/product-overview/mobimage-2)
+    }
+
+    .gogo-page.gogop70 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/Gogo2/product-overview/mobileimage-3)
+    }
+
+    .gogo-page.gogoc90 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/gogo-C90/product-overview/image1)
+    }
+
+    .gogo-page.gogoc90 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/gogo-C90/product-overview/image2)
+    }
+
+    .gogo-page.gogoc90 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/gogo-C90/product-overview/image3)
+    }
+
+    .gogo-page.riki-p40 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/product-overview/mob/image1.webp);
+        background-size: contain
+    }
+
+    .gogo-page.riki-p40 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/product-overview/mob/image2.webp);
+        background-size: contain
+    }
+
+    .gogo-page.riki-p40 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/product-overview/mob/image3.webp);
+        background-size: contain
+    }
+
+    .gogo-page.riki-c40 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/product-overview/mob/image1.webp);
+        background-size: contain
+    }
+
+    .gogo-page.riki-c40 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/product-overview/mob/image2.webp);
+        background-size: contain
+    }
+
+    .gogo-page.riki-c40 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/product-overview/mob/image3.webp);
+        background-size: contain
+    }
+
+    .gogo-page.riki-p40 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/product-overview/mob/image1.webp)
+    }
+
+    .gogo-page.riki-p40 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/product-overview/mob/image2.webp)
+    }
+
+    .gogo-page.riki-p40 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-p40/product-overview/mob/image3.webp)
+    }
+
+    .gogo-page.riki-c40 #parallax1 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/product-overview/mob/image1.webp)
+    }
+
+    .gogo-page.riki-c40 #parallax2 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/product-overview/mob/image2.webp)
+    }
+
+    .gogo-page.riki-c40 #parallax3 {
+        background-image: url(/-/media/Assets/bajajauto/three-wheelers/riki/riki-c40/product-overview/mob/image3.webp)
+    }
+
+    .gogo-page .sidenav #projects {
+        top: unset;
+        bottom: 0;
+        border-radius: 0!important;
+        width: 50%;
+        left: 50%
+    }
+
+    .gogo-page .sidenav #about {
+        bottom: 0;
+        left: 0;
+        border-radius: 0!important;
+        top: unset;
+        width: 50%
+    }
+
+    .card-inner-sec {
+        position: absolute;
+        padding: 15px
+    }
+
+    .keymetrics-tabs .inner-row1 {
+        display: block;
+        margin: 0;
+        margin-bottom: 10px
+    }
+
+    .gogo-page .keymetrics-tabs .inner-row1 .desc-section {
+        margin-bottom: 10px
+    }
+
+    .keymetrics-tabs .inner-row1 .desc-section {
+        background: 0 0;
+        padding: 0
+    }
+
+    .gogo-keymetrics.keymetrics-tabs .inner-row1 .tab-desc-sec .desc-section .card-inner-sec {
+        padding: 15px
+    }
+
+    .gogo-keymetrics.keymetrics-tabs .inner-row1 .tab-desc-sec .desc-section .card-inner-sec .card-title {
+        font-family: Poppins;
+        font-size: 1.25rem;
+        font-weight: 600;
+        line-height: 30px;
+        letter-spacing: .01em;
+        text-align: left
+    }
+
+    #keymetrics-tab4 .desc-section.firstCard .card-inner-sec {
+        left: 0;
+        top: auto;
+        max-width: 100%;
+        padding: 0 15px
+    }
+
+    .keymetrics-tabs {
+        padding: 40px 15px
+    }
+
+    .gogo-page .content-container,.gogo-page .parallax {
+        padding: 0 15px
+    }
+
+    .gogo-keymetrics .gogo-keysection {
+        margin-left: 0!important;
+        padding-right: 0!important;
+        padding-left: 0!important
+    }
+
+    .desc-section2.thirdCard {
+        margin-bottom: 10px
+    }
+
+    .tech-nav-links::-webkit-scrollbar {
+        width: 0;
+        height: 0;
+        display: none
+    }
+
+    .gogo-page .row {
+        margin-left: 0!important;
+        margin-right: 0!important
+    }
+
+    .gogo-page .number-container {
+        padding-left: 15px
+    }
+
+    .gogo-page .content-container .heading {
+        line-height: 26px!important
+    }
+
+    .gogo-page .content-container ul {
+        margin-top: 0
+    }
+
+    .gogo-page .content-container ul {
+        margin-top: 0
+    }
+
+    .gogo-page.pulsarns400 .section-360 .SpinImages img {
+        min-height: auto
+    }
+
+    .gogo-page .accordion-container .accordion-item .accordion-header-text {
+        font-weight: 600
+    }
+
+    .gogo-page .prd-overview-desc {
+        margin-bottom: 0
+    }
+
+    .gogo-page .tech-specs .sub-heading {
+        font-size: 1rem
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .gogo-page .heading-line,.gogo-page .text-title {
+        font-size:1rem
+    }
+
+    .gogo-page .border-line,.gogo-page .faqs-img-sec .border-line,.gogo-page .gogo-gallery .border-line {
+        top: 22px
+    }
+
+    .gogo-faq.accordion-component .faqs-img-sec {
+        padding: 0 20px
+    }
+
+    .images-row {
+        width: 100%;
+        padding: 15px;
+        height: 340px
+    }
+
+    .imagetext-component .image-1 {
+        width: 100%
+    }
+
+    .row-image-animate {
+        display: block
+    }
+
+    .gogo-page .heading,.gogo-page .text-heading {
+        font-size: 1rem!important
+    }
+
+    .gogo-page .heading-line,.gogo-page .text-title {
+        font-size: 1.5rem!important;
+        line-height: 30px
+    }
+
+    .gogo-page .enquiryform .enquiryform__section .lead-form-container-main .lead-form-full .col-w20.w30 .or {
+        margin-left: 68px
+    }
+
+    .gogo-page .enquiryform .lead-form-container-main .lead-form-full .col-w20 .form-box .icon img {
+        height: auto
+    }
+
+    .gogo-page .tech-specs .heading-line,.gogo-page .tech-specs .sub-heading {
+        padding: 0 30px
+    }
+
+    .gogo-page .component.tech-specs {
+        padding: 0
+    }
+
+    .tech-specs div#tab-content {
+        position: relative
+    }
+
+    .tech-specs div#tab-content:before {
+        content: '';
+        position: absolute;
+        content: 'Swipe Right ->';
+        top: -24px;
+        right: 9px;
+        font-size: .75rem;
+        color: #09bfca
+    }
+}
+
+@supports (-webkit-touch-callout:none) {
+    .parallax {
+        background-attachment: scroll
+    }
+
+    .gogo-page .parallax {
+        background-size: cover;
+        height: 380px
+    }
+}
+
+.gogo-page .custome-container .btn-sec a {
+    align-items: center!important
+}
+
+.gogo-page .gogo-image .btn-sec {
+    margin-top: 24px;
+    display: flex;
+    flex-direction: column
+}
+
+@media only screen and (max-width: 991px) {
+    .gogo-page .custome-container .btn-sec a {
+        align-items:center;
+        font-size: 16px;
+        line-height: 22px
+    }
+
+    .bajaj-home #stickySidenav ul#moreItems.show {
+        right: 50%;
+        left: auto;
+        transform: translate(18%,-8%)
+    }
+}
+
+.gogo-page .form-box.calendar {
+    padding: 8px 0
+}
+
+.gogo-page .dateselect a.selected {
+    padding: 0!important
+}
