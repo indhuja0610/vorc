@@ -1233,7 +1233,7 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
           <div class="content p-3">
               <h5 class="title" >Metro XL - Where Comfort Meets Capacity - The King of Passenger 3-Wheelers</h5>
-              <a href="products1.php" class="custom-btn mt-3">View Details</a>
+              <a href="metro xl.php" class="custom-btn mt-3">View Details</a>
           </div>
       </div>
 
@@ -1244,7 +1244,7 @@ document.addEventListener('DOMContentLoaded', () => {
           </div> 
           <div class="content p-3">
               <h5 class="title">Loader 600 PV - Built to Carry More, Earn More</h5>
-              <a href="products2.php" class="custom-btn mt-3">View Details</a>
+              <a href="loader pv.php" class="custom-btn mt-3">View Details</a>
           </div>
       </div>
 
@@ -1255,7 +1255,7 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
           <div class="content p-3">
               <h5 class="title">Loader 600 DV - Engineered for Last Mile Champions</h5>
-              <a href="products3.php" class="custom-btn mt-3">View Details</a>
+              <a href="loader dv.php" class="custom-btn mt-3">View Details</a>
           </div>
       </div>
 
