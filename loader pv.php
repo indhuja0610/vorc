@@ -306,7 +306,7 @@ a:hover{
                               <a href="index.php" class="nav-item nav-link">Home</a>
     <a href="about.php" class="nav-item nav-link">About Us</a>
     <a href="dealers.php" class="nav-item nav-link">Dealers</a>
-    <a href="products.php" class="nav-item nav-link">Our Vehicles</a>
+    <a href="products.php" class="nav-item nav-link">Our Products</a>
      <a href="gallery.php" class="nav-item nav-link">Gallery</a>
                             <a href="contact.php" class="nav-item nav-link">Contact Us</a>
                         </div>
@@ -3177,3 +3177,4 @@ document.querySelector(".zoom-popup").addEventListener("click", function (e) {
     </body>
 
 </html>
+
