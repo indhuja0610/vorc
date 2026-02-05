@@ -4,6 +4,7 @@
     <head>
         <meta charset="utf-8">
         <title>Cental - Car Rent Website Template</title>
+         <link rel="icon" type="images/x-icon" href="vimage/logo.jpeg">
         <meta content="width=device-width, initial-scale=1.0" name="viewport">
         <meta content="" name="keywords">
         <meta content="" name="description">
