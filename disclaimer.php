@@ -183,7 +183,7 @@ a:hover{
             <div class="container">
                 <nav class="navbar navbar-expand-lg navbar-light">
                      <a href="index.php" class="navbar-brand d-flex align-items-center px-4 px-lg-5" id="n">
-  <img src="vorc logo 02.png" alt="Logo" style="height:50px; width:auto;border-radius:8px;margin-left: -126px;">
+  <img src="vimage/vorc logo 02.png" alt="Logo" style="height:50px; width:auto;border-radius:8px;margin-left: -126px;">
 </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                         <span class="fa fa-bars"></span>
