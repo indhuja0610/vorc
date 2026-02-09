@@ -44,7 +44,7 @@ $result = mysqli_query($conn, $query);
       <style>
 
         .bg-breadcrumb{
-          background:url('vimage/BGR2.png') no-repeat;
+          background:url('vimage/bgr1.jpg') no-repeat;
           background-size:cover;
           
         }
