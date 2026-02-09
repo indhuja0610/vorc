@@ -2571,7 +2571,7 @@ Our Customer Support Center is dedicated to providing prompt and reliable assist
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.1s">
                         <div class="team-item p-4 pt-0">
                             <div class="team-img">
-                                <img src="vimage/rev1.jpg" class="img-fluid rounded w-100" alt="Image">
+                                <img src="vimage/review4.png" class="img-fluid rounded w-100" alt="Image">
                             </div>
                             <div class="team-content pt-4">
                                <h4>Murugesan Raja</h4>
@@ -2589,7 +2589,7 @@ Our Customer Support Center is dedicated to providing prompt and reliable assist
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.3s">
                         <div class="team-item p-4 pt-0">
                             <div class="team-img">
-                                <img src="vimage/rev3.png" class="img-fluid rounded w-100" alt="Image">
+                                <img src="vimage/review3.png" class="img-fluid rounded w-100" alt="Image">
                             </div>
                             <div class="team-content pt-4">
                                <h4>Prasad </h4>
@@ -2607,7 +2607,7 @@ Our Customer Support Center is dedicated to providing prompt and reliable assist
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.5s">
                         <div class="team-item p-4 pt-0">
                             <div class="team-img">
-                                <img src="vimage/rev5.png" class="img-fluid rounded w-100" alt="Image">
+                                <img src="vimage/review4.png" class="img-fluid rounded w-100" alt="Image">
                             </div>
                             <div class="team-content pt-4">
                               <h4>Ramesh Arun</h4>
@@ -2625,7 +2625,7 @@ Our Customer Support Center is dedicated to providing prompt and reliable assist
                     <div class="col-md-6 col-lg-6 col-xl-3 wow fadeInUp" data-wow-delay="0.7s">
                         <div class="team-item p-4 pt-0">
                             <div class="team-img">
-                                <img src="vimage/rev6.png" class="img-fluid rounded w-100" alt="Image">
+                                <img src="vimage/review3.png" class="img-fluid rounded w-100" alt="Image">
                             </div>
                             <div class="team-content pt-4">
                                <h4>Kumar Senthil</h4>
